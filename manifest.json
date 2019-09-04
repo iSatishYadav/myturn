@@ -1,7 +1,7 @@
 {
   "name": "my-turn",
   "short_name": "my-turn",
-  "start_url": "/",
+  "start_url": "/myturn",
   "display": "standalone",
   "background_color": "#2A3443",
   "description": "An app for determining who's turn it is",
