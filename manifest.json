@@ -1,0 +1,16 @@
+{
+  "name": "my-turn",
+  "short_name": "my-turn",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2A3443",
+  "description": "An app for determining who's turn it is",
+  "theme_color": "#2A3443",
+  "icons": [
+    {
+      "src": "./img/twitter_profile_image.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
