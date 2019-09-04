@@ -6,8 +6,9 @@
       async function registerSW() {
           if ('serviceWorker' in navigator) {
               try {
-                  await navigator.serviceWorker.register('./sw.js');
+                  await navigator.serviceWorker.register('sw.js');
                 } catch (e) {
+                    console.error("error while registering sw", e);
                     alert('ServiceWorker registration failed. Sorry about that.');
                 }
             } else {

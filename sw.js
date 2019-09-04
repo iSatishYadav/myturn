@@ -3,7 +3,7 @@
 // If you do want to use this, you'll need to update the file manually for every change to trigger an update
 // Last modified: 2018-04-25 12:58PT
 
-const cacheName = 'pwa-myturn-v2';
+const cacheName = 'pwa-myturn-v3';
 //<link rel="stylesheet" href="css/bootstrap.min.css" />
 {/* <link rel="stylesheet" href="css/main.css"/> */}
 {/* <script src="index.js" ></script> */}
