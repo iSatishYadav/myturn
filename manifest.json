@@ -1,6 +1,6 @@
 {
-  "name": "my-turn",
-  "short_name": "my-turn",
+  "name": "myturn",
+  "short_name": "myturn",
   "start_url": "/myturn",
   "display": "standalone",
   "background_color": "#2A3443",
